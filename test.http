@@ -1,0 +1,9 @@
+POST http://localhost:4000/app/form
+Content-Type: application/application/json
+
+{
+    "fullName":"fateh",
+    "email":"chaddhafateh0@gmail.com",
+    "age":"88",
+    "fathersname":"Ajit"
+}
